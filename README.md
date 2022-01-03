@@ -28,7 +28,7 @@
  
 <div align="center"> 
   
-  <a href="https://www.youtube.com/channel/" target="_blank">
+  <a href="https://www.youtube.com/channel/UCMn7NfHDEIQMc0cHDIcjSpg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
   
